@@ -1,4 +1,4 @@
-# Sudha Annual Sales Report Dashboard
+# Fashion Store Annual Sales Report Dashboard
 
 This repository contains a dashboard created to analyze Sudha's annual sales report. 
 The dashboard provides insights derived from raw data through a structured process including data cleaning, processing, and analysis.
