@@ -9,3 +9,6 @@ The dashboard provides insights derived from raw data through a structured proce
 ### Data Processing: Transformation and formatting of raw data for effective analysis.
 ### Data Analysis: In-depth exploration of sales data to derive valuable insights.
 ### Dashboard Visualization: Presentation of insights through an interactive dashboard interface.
+
+
+![Fashion store Dashboard](https://github.com/Ankit-vik-singh/FashionStore_AnnualReort_Analysis/assets/144229687/e8ffbb87-66c7-4166-a3ab-2277c2acfa3d)
